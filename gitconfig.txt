@@ -1,2 +1,2 @@
 git config --global user.name Joaofelipemota7
-git config --global user.email joaoafelipemota.m@gmail.com
+git config --global user.email joaofelipemota.m@gmail.com
